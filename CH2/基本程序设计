@@ -18,3 +18,23 @@ nextDouble()  读取一个double类型的整数
 next()  读取一个字符串，该字符在一个空白符之前结束
 nextLine()  读取一行文本
 
+
+2.4 标识符
+标识符是由字母、数字、下划线和美元符号构成的字符序列
+标识符必须以字母、下划线或美元符号开头，不能以数字开头
+标识符不能是保留字，不能是true、false、null
+标识符可以是任意长度
+
+2.5 变量
+
+2.6 赋值语句和赋值表达式
+
+2.7 定名常量
+final datatype CONSTANTNAME=VALUE
+习惯中常量一般以大写字母命名
+
+2.8 数值数据类型及其运算
+Java整数类型：byte、short、int、long
+Java浮点数：float、double
+System.out.println(1.0-0.9) 为0.09999999999999998
+
