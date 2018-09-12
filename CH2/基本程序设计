@@ -1,1 +1,20 @@
 学习笔记
+
+2.1 引言
+
+2.2 编写简单的程序 
+源代码中，字符串常量不能跨行，可以考虑用“+”来链接
+
+2.3 从控制台读取输入
+Scanner input=new Scanner(System.in)
+new Scanner(System.in)创建了一个Scanner类型的对象
+Scanner input声明input是一个Scanner类型的变量
+nextByte()  读取一个byte类型的整数
+nextShort()  读取一个short类型的整数
+nextInt()  读取一个int类型的整数
+nextLong()  读取一个long类型的整数
+nextFloat()  读取一个float类型的整数
+nextDouble()  读取一个double类型的整数
+next()  读取一个字符串，该字符在一个空白符之前结束
+nextLine()  读取一行文本
+
