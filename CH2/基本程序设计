@@ -38,3 +38,7 @@ Java整数类型：byte、short、int、long
 Java浮点数：float、double
 System.out.println(1.0-0.9) 为0.09999999999999998
 
+2.9 问题：显示当前时间 
+
+2.10 简洁运算符
+
